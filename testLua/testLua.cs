@@ -1,5 +1,5 @@
 using System;
-using System.Collections.Generic;
+using System.Runtime.InteropServices;
 
 using Lua;
 
@@ -34,7 +34,10 @@ namespace luaTest
                     var result = theLuaVm.doString(line);
                     if (LuaThreadStatus.LUA_ERRSYNTAX == (LuaThreadStatus)result)
                     {
-                        System.Console.WriteLine("Lua Error");
+                        
+                        IntPtr errorPtr = LuaDLL.lua_tostring(theLuaVm.statePtr, -1);
+                        string? errorMessage = Marshal.PtrToStringAnsi(errorPtr);
+                        System.Console.WriteLine(errorMessage);
                     }
                 }
 

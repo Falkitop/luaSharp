@@ -1,7 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\falk1\\source\\repos\\Falkitop\\luaSharp\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\falk1\\Downloads\\luaSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21EAC51D-E2F4-4850-B3BE-E6F767B17BD4}|testLua\\testLua.csproj|c:\\users\\falk1\\downloads\\luasharp\\testlua\\testlua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EAC51D-E2F4-4850-B3BE-E6F767B17BD4}|testLua\\testLua.csproj|solutionrelative:testlua\\testlua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8081ADE-BBC0-42FD-B9C3-A96EC7ECEF9E}|src\\LuaSharp.csproj|c:\\users\\falk1\\downloads\\luasharp\\src\\luadll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8081ADE-BBC0-42FD-B9C3-A96EC7ECEF9E}|src\\LuaSharp.csproj|solutionrelative:src\\luadll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8081ADE-BBC0-42FD-B9C3-A96EC7ECEF9E}|src\\LuaSharp.csproj|c:\\users\\falk1\\downloads\\luasharp\\src\\luaobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8081ADE-BBC0-42FD-B9C3-A96EC7ECEF9E}|src\\LuaSharp.csproj|solutionrelative:src\\luaobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "luaObject.cs",
+              "DocumentMoniker": "C:\\Users\\falk1\\Downloads\\luaSharp\\src\\luaObject.cs",
+              "RelativeDocumentMoniker": "src\\luaObject.cs",
+              "ToolTip": "C:\\Users\\falk1\\Downloads\\luaSharp\\src\\luaObject.cs",
+              "RelativeToolTip": "src\\luaObject.cs",
+              "ViewState": "AQIAACoBAAAAAAAAAAAYwEsBAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T01:23:25.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "luaDll.cs",
+              "DocumentMoniker": "C:\\Users\\falk1\\Downloads\\luaSharp\\src\\luaDll.cs",
+              "RelativeDocumentMoniker": "src\\luaDll.cs",
+              "ToolTip": "C:\\Users\\falk1\\Downloads\\luaSharp\\src\\luaDll.cs",
+              "RelativeToolTip": "src\\luaDll.cs",
+              "ViewState": "AQIAAMoCAAAAAAAAAAAYwNwCAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T01:23:10.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "testLua.cs",
+              "DocumentMoniker": "C:\\Users\\falk1\\Downloads\\luaSharp\\testLua\\testLua.cs",
+              "RelativeDocumentMoniker": "testLua\\testLua.cs",
+              "ToolTip": "C:\\Users\\falk1\\Downloads\\luaSharp\\testLua\\testLua.cs",
+              "RelativeToolTip": "testLua\\testLua.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T01:21:37.801Z",
+              "EditorCaption": ""
             }
           ]
         }

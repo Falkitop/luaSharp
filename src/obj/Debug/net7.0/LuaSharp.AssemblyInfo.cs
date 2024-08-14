@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LuaSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+838bda37999000716f8d96e652b333f1d6377d03")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ba8299ac064017572b885d75f58a43099fc2143")]
 [assembly: System.Reflection.AssemblyProductAttribute("LuaSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LuaSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
